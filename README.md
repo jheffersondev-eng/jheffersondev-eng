@@ -57,7 +57,11 @@ Sou desenvolvedor **Full-Stack** com mais de **5+ anos** no mercado, atuando em 
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=jheffersondev-eng&theme=tokyonight&hide_border=true" height="160" alt="streak" />
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jheffersondev-eng/jheffersondev-eng/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jheffersondev-eng/jheffersondev-eng/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jheffersondev-eng/jheffersondev-eng/output/github-snake-light.svg">
+</picture>
 ---
 
 ## Vamos conversar
