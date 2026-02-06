@@ -54,13 +54,9 @@ Sou desenvolvedor **Full-Stack** com mais de **5+ anos** no mercado, atuando em 
 ## Grafico e atividade
 
 <div align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jheffersondev-eng&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="160" alt="stats" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=jheffersondev-eng&theme=tokyonight&hide_border=true" height="160" alt="streak" />
 </div>
 
-<div align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jheffersondev-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="160" alt="top langs" />
-</div>
 
 ---
 
