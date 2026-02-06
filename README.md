@@ -62,6 +62,7 @@ Sou desenvolvedor **Full-Stack** com mais de **5+ anos** no mercado, atuando em 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jheffersondev-eng/jheffersondev-eng/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jheffersondev-eng/jheffersondev-eng/output/github-snake-light.svg">
 </picture>
+
 ---
 
 ## Vamos conversar
